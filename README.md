@@ -6,7 +6,7 @@
 - 📫 How to reach me: seb@techtakel.berlin
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
-- :couple: https://github.com/Pterodactylae
+- ❤️: https://github.com/Pterodactylae
 
 <!--
 **SebastianWolter1/SebastianWolter1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
