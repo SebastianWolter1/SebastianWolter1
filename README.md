@@ -6,5 +6,5 @@
 - 📫 How to reach me: seb@techtakel.berlin
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: the giant squid has the largest eyes in the world 
-- ❤️ https://github.com/Pterodactylae
+- ❤️ :couple: https://github.com/Pterodactylae
 
