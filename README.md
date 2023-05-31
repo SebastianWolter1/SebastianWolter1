@@ -1,6 +1,6 @@
-# Nice to meet you, my name is Seb
+# Hello, my name is Seb
 
-I am a Web Developer, currently looking for new challenges.  \
+I am a Web Developer, currently looking for new challenges.
 
 ## Tech Stack
 
@@ -43,7 +43,9 @@ I am a Web Developer, currently looking for new challenges.  \
 
 ## About Me
 
-
+I am an experienced artist manager, turned MERN stack web developer with a keen interest in financial markets. 
+I am a structured and very detail-oriented professional who thrives in challenging & agile environments. 
+As a team player who values the exchange of knowledge and expertise, I am dedicated to helping create smart solutions that drive business success. I am eager to bring my passion for learning new technologies, as well as my skill in problem-solving to every project.
 
 ## Stats
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianwolter1) \
@@ -52,6 +54,7 @@ I am a Web Developer, currently looking for new challenges.  \
 ## Projects
 
 1. MONEY MATE
+
 [MoneyMate.pdf](https://github.com/SebastianWolter1/SebastianWolter1/files/11612404/MoneyMate.pdf)
 
 1a. [Money Mate client](https://github.com/Money-Mate/client)
