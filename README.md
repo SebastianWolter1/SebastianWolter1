@@ -52,8 +52,7 @@ I am a Web Developer, currently looking for new challenges.  \
 ## Projects
 
 1. MONEY MATE
-
-[Overview_MoneyMate.pdf](https://github.com/coding-mew/coding-mew/files/11612095/Overview_MoneyMate.pdf)
+[MoneyMate.pdf](https://github.com/SebastianWolter1/SebastianWolter1/files/11612404/MoneyMate.pdf)
 
 1a. [Money Mate client](https://github.com/Money-Mate/client)
 
@@ -73,8 +72,8 @@ In the financial health section, I assist you with various analytical algorithms
 ## Get in Touch
 
 - Email: [seb@techtakel.berlin]
-- LinkedIn: [Leonie Schwitzkowski](https://www.linkedin.com/in/sebastian-wolter-fullstackwebdev/)
-- - ❤️ :couple: https://github.com/coding-mew
+- LinkedIn: [Sebastian Wolter](https://www.linkedin.com/in/sebastian-wolter-fullstackwebdev/)
+- ❤️ :couple: https://github.com/coding-mew
 
 
 
