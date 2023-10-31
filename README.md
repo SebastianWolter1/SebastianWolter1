@@ -1,6 +1,6 @@
 # Hello, my name is Seb
 
-I am a Web Developer, currently looking for new challenges.
+I am a Web Developer, working for Brandung GmbH as a Frontend Developer.
 
 ## Tech Stack
 
@@ -15,24 +15,24 @@ I am a Web Developer, currently looking for new challenges.
 - ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) 
 
 ### Frontend
-- ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) 
+- ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 - ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) 
-- ![Zustand](https://img.shields.io/badge/Zustand-FFD700?logo=react&logoColor=white) 
 
-### UI Frameworks/Libraries
+### UI
 - ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) 
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 - ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white) 
 
 ### Databases
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) 
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+- ![Prisma](https://img.shields.io/badge/Prisma-000000?logo=prisma&logoColor=white)
+
+### CMS
+- ![Storyblok](https://img.shields.io/badge/Storyblok-000000?logo=storyblok&logoColor=white)
 
 ### State Management
 - ![Zustand](https://img.shields.io/badge/Zustand-FFD700?logo=react&logoColor=white) 
-
-### API
-- ![REST API](https://img.shields.io/badge/REST_API-009688?logo=api&logoColor=white) 
-
 
 ### Design, Tools and Others
 - ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white) 
