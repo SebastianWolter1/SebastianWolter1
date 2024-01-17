@@ -4,7 +4,7 @@ I am a Fullstack Web Developer, looking for new challenges
 
 ## Tech Stack
 
-### Programming Languages / Frameworks / Libraries
+### Languages / Frameworks / Libraries
 - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) 
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 - ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
