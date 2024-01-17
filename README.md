@@ -1,6 +1,6 @@
 # Hello, my name is Seb
 
-I am a Web Developer, working for Brandung GmbH as a Frontend Developer.
+I am a Fullstack Web Developer, looking for new challenges
 
 ## Tech Stack
 
